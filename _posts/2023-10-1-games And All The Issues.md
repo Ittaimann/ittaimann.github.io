@@ -1,4 +1,34 @@
-# Lets talk about games and money
+# Games, and the world they are made in
+
+
+# Notes to self/organization:
+this should be organized into 4 major sections:
+1. explaining quickly what will be covered
+2. monetization
+    - dlc
+    - micro transactions
+    - Games as a service
+3. why certain games get made:
+    - we don't know how to make games actually good.
+    - do gamers actually want what they say (can we find and example)
+    - success of sequels, shared properties, and the risk of new IPs
+        - harry potter success
+        - callisto and immortals
+    - demographics
+        - effects on design and aesthetic based onn demo targets
+4. the Businesses around games
+    - publisher developer relations
+    - distributor costs (steam, epic, apple)
+    - middle ware
+        - issues with engines
+5. Greater issues
+    - investment capital and enshitification
+    - people make games not companies
+        - crunch 
+    - what you can do
+    - what we can do
+
+
 
 ## Prefix
 The opinions expressed here do not represent my employer and barely represent mine.
@@ -9,6 +39,7 @@ The opinions expressed here do not represent my employer and barely represent mi
 I feel like i've heard this too much. I've heard too many Dunning Kruger king youtubers, twitter users, redditors, and god knows what you call people using normal forums in 2023, spout nonsense about how things should be. I've even heard other younger game devs say a lot of this. The frustrating thing is that a lot of this makes sense when your in it, and speaking honestly should make a lot of sense even if your not in it. At the risk of losing my mind, here is my best explanation for all the modern woes of game dev. 
 
 
+## Standards die every day 
 
 ## The first gate.
 "But Baldurs Gate 3!" I hear you cry, "Its a modern AAA game without any of these issues! Surely bigger studios should be able to do that". The answer is maybe, like given all the same scenarios and advantages maybe, but some of those advantages are pretty massive. The three biggest ones being
@@ -17,16 +48,29 @@ I feel like i've heard this too much. I've heard too many Dunning Kruger king yo
  2. An Engine and team explicitly built for and familiar with that genre of games.
  3. *PRIVATE OWNERSHIP* 
 
-
-## The "Standard"
+these three pieces are nearly impossible for most studios. But lets take the first point and see what other studios try to do to get that
 
 ## DLC
+- expansions did exist prior to dlc.
+- the game doesn't exactly end once your finished. Smaller scale games built with the finished pipeline often times are safe and smaller with a proven and known workflow
+- this also has the advantage of keeping artists and programmers working while pre-production begins for the next large project
 
 ## Micro transactions
+- horse armor lmao
+- recurring small purchases for small amounts of work
+- non-game play effecting aesthetics
+    - the issue is that this is limited from a narrattive perspective. No soldier goes into a war with a waifu skinned gun (well lets be honest theu have one at home)
+- This work has some extra benefits such as keeping artists around as mentioned in the previous section
 
 ## Day one patches
+- This is sadly is a larger conversation, some of which begins to bleed into the technicals.
+- long story short this is an issue, however it really depends on the engine and kind of game.
+    - if the game relies on massive amounts of baked lighting or reflections and one element in a level moves, you may need a large re-bake. If an asset change is required you run the risk of needing to also re-bake and put that in the day one patch.
+    - Some games code is also a resource technically, so it becomes a bit of a mess where you may need to update lua or some data table. Different engines pack a lot of this info differently, so the frustrations here are really dependent on to many variables. 
+- I do feel for everyone with limited internet. Improving this will likely won't be a target in the future unless game sizes grow exponentially larger than internet speeds in a subset of countries (essentially north america, europe, and east asia)
 
 ## GaaS me up capitian
+- This in a way is the evolution of both dlc and microtransactions in turning the game into a re-occuring payment/content machine.
 - think about WoW at its peak. 16 million*(FACT CHECK)* paying 15$(FACT CHECK) a month for months on end, only playing this one game. The reality is... why wouldn't you want that. 
 
 ## Sequels and the IP problem
@@ -79,10 +123,15 @@ The end result is that many of these issues are largely the result of the beatif
 - Growth is the goal, to end in payoff.
 - the fastest way to win is to be the only player, can't lose a single player game
 
-## crunch
+
+## demographics
+- explain that expnanding demos are growth. Especially when you look at the AAA games consumer as mostly male when the reality is that it could be split more evenly and make more money
 
 ## who makes games? people, people, not companies
 - People make games not studios. While holding up the individual is dangerous (McCreey...) we need to admit that peoples experience is useful and we need to listen to everyoune we can
+- Moist critical saying that volition made good games, no the people at volition made good games, but the reality is that the people who made saints row 1,2,3 didn't make everything after 
+### crunch
+- explain how crunch makes people leave the industry
 
 ## What can we do to fix it.
 - I don't know. The reality is I just wanna be payed and live in this nightmare capitalist hellscape and enjoy coffee 

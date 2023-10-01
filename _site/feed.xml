@@ -1,4 +1,211 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-30T22:57:18+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2021/07/30/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-07-30T22:57:08+01:00</published><updated>2021-07-30T22:57:08+01:00</updated><id>http://localhost:4000/jekyll/update/2021/07/30/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2021/07/30/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-01T21:53:59+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Games and all the issues</title><link href="http://localhost:4000/2023/10/01/games-And-All-The-Issues.html" rel="alternate" type="text/html" title="Games and all the issues" /><published>2023-10-01T00:00:00+01:00</published><updated>2023-10-01T00:00:00+01:00</updated><id>http://localhost:4000/2023/10/01/games%20And%20All%20The%20Issues</id><content type="html" xml:base="http://localhost:4000/2023/10/01/games-And-All-The-Issues.html">&lt;h1 id=&quot;games-and-the-world-they-are-made-in&quot;&gt;Games, and the world they are made in&lt;/h1&gt;
+
+&lt;h1 id=&quot;notes-to-selforganization&quot;&gt;Notes to self/organization:&lt;/h1&gt;
+&lt;p&gt;this should be organized into 4 major sections:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;explaining quickly what will be covered&lt;/li&gt;
+  &lt;li&gt;monetization
+    &lt;ul&gt;
+      &lt;li&gt;dlc&lt;/li&gt;
+      &lt;li&gt;micro transactions&lt;/li&gt;
+      &lt;li&gt;Games as a service&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;why certain games get made:
+    &lt;ul&gt;
+      &lt;li&gt;we don’t know how to make games actually good.&lt;/li&gt;
+      &lt;li&gt;do gamers actually want what they say (can we find and example)&lt;/li&gt;
+      &lt;li&gt;success of sequels, shared properties, and the risk of new IPs
+        &lt;ul&gt;
+          &lt;li&gt;harry potter success&lt;/li&gt;
+          &lt;li&gt;callisto and immortals&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;demographics
+        &lt;ul&gt;
+          &lt;li&gt;effects on design and aesthetic based onn demo targets&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;the Businesses around games
+    &lt;ul&gt;
+      &lt;li&gt;publisher developer relations&lt;/li&gt;
+      &lt;li&gt;distributor costs (steam, epic, apple)&lt;/li&gt;
+      &lt;li&gt;middle ware
+        &lt;ul&gt;
+          &lt;li&gt;issues with engines&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Greater issues
+    &lt;ul&gt;
+      &lt;li&gt;investment capital and enshitification&lt;/li&gt;
+      &lt;li&gt;people make games not companies
+        &lt;ul&gt;
+          &lt;li&gt;crunch&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;what you can do&lt;/li&gt;
+      &lt;li&gt;what we can do&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;prefix&quot;&gt;Prefix&lt;/h2&gt;
+&lt;p&gt;The opinions expressed here do not represent my employer and barely represent mine.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-wrong-with-video-games&quot;&gt;What is wrong with video games&lt;/h2&gt;
+&lt;p&gt;“Why aren’t they fun like we used to remember, are modern games actually worse. What is with all the gross monetisation and dlc nonsense. Why is there so many day 1 patches, games the perform poorly, broken on release, sequels that just don’t hit. Surely this is lazy game devs?”&lt;/p&gt;
+
+&lt;p&gt;I feel like i’ve heard this too much. I’ve heard too many Dunning Kruger king youtubers, twitter users, redditors, and god knows what you call people using normal forums in 2023, spout nonsense about how things should be. I’ve even heard other younger game devs say a lot of this. The frustrating thing is that a lot of this makes sense when your in it, and speaking honestly should make a lot of sense even if your not in it. At the risk of losing my mind, here is my best explanation for all the modern woes of game dev.&lt;/p&gt;
+
+&lt;h2 id=&quot;standards-die-every-day&quot;&gt;Standards die every day&lt;/h2&gt;
+
+&lt;h2 id=&quot;the-first-gate&quot;&gt;The first gate.&lt;/h2&gt;
+&lt;p&gt;“But Baldurs Gate 3!” I hear you cry, “Its a modern AAA game without any of these issues! Surely bigger studios should be able to do that”. The answer is maybe, like given all the same scenarios and advantages maybe, but some of those advantages are pretty massive. The three biggest ones being&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Recurring income from re-releases of divinity original sin 2 (also a very good game btw), as well as early access money.&lt;/li&gt;
+  &lt;li&gt;An Engine and team explicitly built for and familiar with that genre of games.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;PRIVATE OWNERSHIP&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;these three pieces are nearly impossible for most studios. But lets take the first point and see what other studios try to do to get that&lt;/p&gt;
+
+&lt;h2 id=&quot;dlc&quot;&gt;DLC&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;expansions did exist prior to dlc.&lt;/li&gt;
+  &lt;li&gt;the game doesn’t exactly end once your finished. Smaller scale games built with the finished pipeline often times are safe and smaller with a proven and known workflow&lt;/li&gt;
+  &lt;li&gt;this also has the advantage of keeping artists and programmers working while pre-production begins for the next large project&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;micro-transactions&quot;&gt;Micro transactions&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;horse armor lmao&lt;/li&gt;
+  &lt;li&gt;recurring small purchases for small amounts of work&lt;/li&gt;
+  &lt;li&gt;non-game play effecting aesthetics
+    &lt;ul&gt;
+      &lt;li&gt;the issue is that this is limited from a narrattive perspective. No soldier goes into a war with a waifu skinned gun (well lets be honest theu have one at home)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;This work has some extra benefits such as keeping artists around as mentioned in the previous section&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;day-one-patches&quot;&gt;Day one patches&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;This is sadly is a larger conversation, some of which begins to bleed into the technicals.&lt;/li&gt;
+  &lt;li&gt;long story short this is an issue, however it really depends on the engine and kind of game.
+    &lt;ul&gt;
+      &lt;li&gt;if the game relies on massive amounts of baked lighting or reflections and one element in a level moves, you may need a large re-bake. If an asset change is required you run the risk of needing to also re-bake and put that in the day one patch.&lt;/li&gt;
+      &lt;li&gt;Some games code is also a resource technically, so it becomes a bit of a mess where you may need to update lua or some data table. Different engines pack a lot of this info differently, so the frustrations here are really dependent on to many variables.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;I do feel for everyone with limited internet. Improving this will likely won’t be a target in the future unless game sizes grow exponentially larger than internet speeds in a subset of countries (essentially north america, europe, and east asia)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gaas-me-up-capitian&quot;&gt;GaaS me up capitian&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;This in a way is the evolution of both dlc and microtransactions in turning the game into a re-occuring payment/content machine.&lt;/li&gt;
+  &lt;li&gt;think about WoW at its peak. 16 million&lt;em&gt;(FACT CHECK)&lt;/em&gt; paying 15$(FACT CHECK) a month for months on end, only playing this one game. The reality is… why wouldn’t you want that.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sequels-and-the-ip-problem&quot;&gt;Sequels and the IP problem&lt;/h2&gt;
+&lt;h3 id=&quot;we-only-can-make-what-we-know&quot;&gt;We only can make what we know&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Game design as a field is new, we don’t know what makes a good game&lt;/li&gt;
+  &lt;li&gt;once ever number of years the entire industry pivots to a design, it used to be what was good/hot, now its a split between that and what can make more money&lt;/li&gt;
+  &lt;li&gt;the reason bioware messed up anthem is if you look historically, its not playing to their strengths in most ways. Jet pack combat? open world design? GaaS?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;did-you-even-want-this&quot;&gt;Did you even want this?&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Historically, new IP don’t do as well as returning IP, sequels, and licesnesd products.&lt;/li&gt;
+  &lt;li&gt;immortals of avenum vs harry potter. Magic shooters, and guess who sold more&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;the-risks&quot;&gt;the risks&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;immortals layed off about 45%&lt;/li&gt;
+  &lt;li&gt;striking distance did as well&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;performance-or-why-cant-i-run-it-4k-144hz-ultra-on-my-1050ti&quot;&gt;Performance, or why can’t I run it 4k 144hz ultra on my 1050ti&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;This is a bigger one tbh. The reality is that games look better, and as they look better we adjust to new pipelines. Sometimes studios export their pipeline (Nanite, pbr, TAA) and ultimately give it as a default in the middle ware. The alternative is build your own tools (which in itself is a nightmare)&lt;/li&gt;
+  &lt;li&gt;Shader stalls and the pc problems because we haven’t adjusted yet to the requirements.&lt;/li&gt;
+  &lt;li&gt;Games are too big, you can’t get the full picture from any individual, the reality is that we want everything every time.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;why-could-we-do-this-before&quot;&gt;Why could we do this before?&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Why do some game design things like destructability or go away?&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;might not include this one&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;game-tick-and-leeches&quot;&gt;Game tick and leeches&lt;/h2&gt;
+&lt;p&gt;The thing I hear a lot about from people online is “The publisher crunched them, the publisher should’ve delayed the game, the publisher got in the way”. Largely these statements are true for some games, and its likely that any company that has ever worked with a publisher has experienced the voice from upstairs saying “No, add this”. Sometimes its bad, but… not always. To be honest publishers are in my experience significantly more kind than you’d assume, they usually want the game to be good as well to some degree depending on who is in charge. I don’t want to spotlight him, but Phil Spencer seems like a guy who actually cares a lot about the state of games, I trust he’d actually be willing to let someone cook (THIS IS A WEIRD SENTENCE)&lt;/p&gt;
+&lt;h3 id=&quot;publishers-what-are-they-good-for&quot;&gt;Publishers, what are they good for&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;what publishers do:
+    &lt;ul&gt;
+      &lt;li&gt;provide marketing&lt;/li&gt;
+      &lt;li&gt;budget for development&lt;/li&gt;
+      &lt;li&gt;provide resources from other platforms often times (dev kits)&lt;/li&gt;
+      &lt;li&gt;disc printing (in the year 2023! gasp!)&lt;/li&gt;
+      &lt;li&gt;sometimes provide in house tech (frostbite)
+Ultimately the publisher pays or the development, but without knowing exactly what the deal is I don’t think we can make assumptions regarding amount returned to the devs. Is there some revenue share? Probably. Is it all payed up front? Could be. Do publishers tank games? Sometimes sure.
+The reality is if they want to tank the game, then its sorta really up to them to do it. They paid for it, like building a house, you want it a certain way. The builders can tell you thats stupid but when you want your corinthian pillar of styrofoam holding up your kitchen what are they gonna say? No? Your paying for it.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Why did they want their own launchers? Money
+    &lt;h3 id=&quot;no-valve-is-not-our-friend&quot;&gt;No, valve is not our friend.&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;valve takes a 30% cut more or less
+    &lt;h3 id=&quot;no-epic-isnt-either&quot;&gt;No, epic isn’t either.&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;epic takes 5% royalty after 1 mil in revenue (you hit this fast)&lt;/li&gt;
+  &lt;li&gt;epic store takes a cut as well
+    &lt;h3 id=&quot;middle-ware-built-by-middle-men&quot;&gt;middle ware built by middle men&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;engines are tools that ultimately exist to help but come with their own issues&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;investment-capitalism-and-you&quot;&gt;investment capitalism, and you&lt;/h2&gt;
+&lt;p&gt;The end result is that many of these issues are largely the result of the beatiful process of enshitification.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Growth is the goal, to end in payoff.&lt;/li&gt;
+  &lt;li&gt;the fastest way to win is to be the only player, can’t lose a single player game&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;demographics&quot;&gt;demographics&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;explain that expnanding demos are growth. Especially when you look at the AAA games consumer as mostly male when the reality is that it could be split more evenly and make more money&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;who-makes-games-people-people-not-companies&quot;&gt;who makes games? people, people, not companies&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;People make games not studios. While holding up the individual is dangerous (McCreey…) we need to admit that peoples experience is useful and we need to listen to everyoune we can&lt;/li&gt;
+  &lt;li&gt;Moist critical saying that volition made good games, no the people at volition made good games, but the reality is that the people who made saints row 1,2,3 didn’t make everything after
+    &lt;h3 id=&quot;crunch&quot;&gt;crunch&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;explain how crunch makes people leave the industry&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-can-we-do-to-fix-it&quot;&gt;What can we do to fix it.&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;I don’t know. The reality is I just wanna be payed and live in this nightmare capitalist hellscape and enjoy coffee&lt;/li&gt;
+  &lt;li&gt;Make most the industry private (dude this is very risky, the idea about investment capitalism makes a lot of issues like startup not a problem)&lt;/li&gt;
+  &lt;li&gt;government stipends/treat us like indie art or treat game devs like incubation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-can-you-do-to-fix-it&quot;&gt;What can you do to fix it.&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Be kinder, be more willing to invest time into new games that are made by smaller independent studios until they turn their back on the world&lt;/li&gt;
+  &lt;li&gt;buy from independent stores, be willing to not have your games all in one place (you can map you exes in steam anyways)&lt;/li&gt;
+  &lt;li&gt;Be a fan, but also choose one of two, be perfectly informed or blind. This middle ground of watching youtubers who’ve not written a line of engine code, or ever drawn a texture is only putting you at the top of a massive curve you can’t see.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Games, and the world they are made in</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2021/07/30/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-07-30T22:57:08+01:00</published><updated>2021-07-30T22:57:08+01:00</updated><id>http://localhost:4000/jekyll/update/2021/07/30/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2021/07/30/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
