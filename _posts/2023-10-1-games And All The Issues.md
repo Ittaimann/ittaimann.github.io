@@ -24,6 +24,7 @@ this should be organized into 4 major sections:
 5. Greater issues
     - investment capital and enshitification
     - people make games not companies
+        - where do these people live(lmao cali)
         - crunch 
     - what you can do
     - what we can do
